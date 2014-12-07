@@ -1,9 +1,5 @@
 package wordnik
 
-const (
-	WORD_BASE = "/word.json/"
-)
-
 type Word struct {
 	ID            int64
 	Word          string
