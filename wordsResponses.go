@@ -20,7 +20,7 @@ type ContentProvider struct {
 }
 
 type SimpleDefinition struct {
-	Test         string
+	Text         string
 	Source       string
 	Note         string
 	PartOfSpeech string
